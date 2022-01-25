@@ -17,3 +17,9 @@
 {
     width: 300px;
 }
+body{
+    background-image: linear-gradient(pink,lavender);
+    color: crimson;}
+h1{
+    font-family: fantasy;
+}
